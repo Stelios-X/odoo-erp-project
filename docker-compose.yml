@@ -1,0 +1,11 @@
+#version: '3'
+services:
+  odoo:
+    image: odoo:17
+    ports:
+      - "8069:8069"
+    environment:
+      - HOST=192.168.100.38
+      - PORT=5432
+      - USER=odoo
+      - PASSWORD=PWIRo@L%qBZL2Ka
