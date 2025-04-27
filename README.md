@@ -5,7 +5,7 @@ This project sets up Odoo 17 using Docker, connecting to a PostgreSQL database r
 ## Prerequisites
 
 - Docker installed
-- PostgreSQL running on the host at `192.168.100.38:5432` with user `odoo` and password `PWIRo@L%qBZL2Ka`
+- PostgreSQL running on the host at '' with user `odoo` and password ` `
 
 ## Setup
 
